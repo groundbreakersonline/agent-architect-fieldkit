@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.firecrawl/
+.openchamber/
+tools/dbg-*.ts
+*.local
+.DS_Store
+
+tsconfig.tsbuildinfo
+OUTREACH.md
